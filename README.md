@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Freddie
-- 👀 I’m interested in data analysis and data science....
-- 🌱 I’m currently learning ...python,R and SQL
+- 👀 I’m interested in software development,data analysis and data science....
+- 🌱 I’m currently learning ...python,JavaScript,R and SQL
 - 💞️ I’m looking to collaborate on ...github
 - 📫 How to reach me ...freddiemurigi@gmail.com
 
